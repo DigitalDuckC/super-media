@@ -1,1 +1,1 @@
-# super-media
+# super
